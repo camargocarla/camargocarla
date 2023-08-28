@@ -19,7 +19,6 @@
 
 <div align="center">
   <a href="https://github.com/camargocarla">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=camargocarla&count_private=true&include_all_commits=true&show_icons=true&theme=calm_pink&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=camargocarla&theme=calm_pink&hide_border=false&&layout=compact"/>
   </a>
 </div>
